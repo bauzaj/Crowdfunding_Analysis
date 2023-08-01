@@ -1,4 +1,4 @@
-# Crowdfunding_ETL
+# Crowdfunding_Analysis_ETL
 **Project Overview**
 
 This project is aimed at extracting, transforming, and loading data from various sources into a relational database using Python, Pandas, and SQLalchemy. The project involves processing data from four different sources, including crowdfunding.xlsx, contacts.xlsx, and two CSV files created from the xlsx files. The data is processed in stages, with each stage involving a different set of tasks. The extracted data is cleaned, transformed, and merged, then loaded into the PostgreSQL database. The result is a well-organized relational database that is easy to query for analytical purposes.
